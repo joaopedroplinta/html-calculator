@@ -1,7 +1,7 @@
 # Calculator 
 
 <p align="center">
-  <img src="ASSETS/calculadora.png" alt="Calculator Example Preview">
+  <img src="calculator/ASSETS/calculadora.png" alt="Calculator Example Preview">
 </p>
 
 ## English
